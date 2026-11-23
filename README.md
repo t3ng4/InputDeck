@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/t3ng4/inputdeck/actions/workflows/tests.yml"><img alt="tests" src="https://github.com/t3ng4/inputdeck/actions/workflows/tests.yml/badge.svg"></a>
   <img alt="license" src="https://img.shields.io/badge/license-MIT-blue">
   <img alt="python" src="https://img.shields.io/badge/python-3.9%2B-blue">
   <img alt="platform" src="https://img.shields.io/badge/platform-Linux-lightgrey">
